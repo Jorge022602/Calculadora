@@ -45,7 +45,7 @@ namespace Calculadora
         {
             if (!obj.EsNumerico(n1.Text) && obj.EsNumerico(n2.Text))
             {
-                total.Text = "Ingrese un numero correcto";
+                total.Text = "Volver a poner un numero";
             }
             else
             {

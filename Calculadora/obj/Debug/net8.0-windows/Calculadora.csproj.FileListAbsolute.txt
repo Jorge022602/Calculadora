@@ -55,3 +55,4 @@ C:\Users\Jorge\Desktop\Ister\Programación 2\Calculadora\Calculadora\Calculadora
 C:\Users\Jorge\Desktop\Ister\Programación 2\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
 C:\Users\Jorge\Desktop\Ister\Programación 2\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
 C:\Users\Jorge\Desktop\Ister\Programación 2\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
+C:\Users\Jorge\Desktop\Ister\Programación 2\Calculadora\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.sourcelink.json
