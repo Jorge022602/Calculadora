@@ -32,7 +32,7 @@ namespace Calculadora
         {
             if (!obj.EsNumerico(n1.Text) && obj.EsNumerico(n2.Text))
             {
-                total.Text = "Ingrese un numero correcto";
+                total.Text = "Colocar un numero correcto";
             }
             else
             {
